@@ -63,4 +63,4 @@ OKRs는 Business 방향에 맞게 설정하며, Business needs에 따라 기존�
 * 가장 높은 숫자가 나온 사람은 이번 Hangbot cycle에서 배제됩니다.
 * 숫자가 중복으로 나온 사람들끼리 다시 주사위를 던져 순서를 정합니다.
 * 등수에 따라 순서대로 자신이 원하는 주간을 선택해서 결정합니다.
-* **Rainy day rule: 비가 올 경우 순서는 역순으로 진행됩니다.(예 0이 나온 사람은 Hangbot cycle에서 배제)**
+* **Rainy day rule: 비가 올 경우 순서는 역순으로 진행됩니다.(예 0이 나온 사람이 Hangbot cycle에서 배제)**
