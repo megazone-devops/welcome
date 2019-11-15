@@ -1,8 +1,5 @@
 # Megazone Cloud DevOps팀 공개 Git 공간
 ## Culture
-### Culture fit
-* [DevOps Team culture fit 문서 참조](culture_fit.md)
-
 ### Ground rule(업무규칙)
 1. 분기별 OKRs을 설정하여 자발적 Goal을 만들어갑니다.
 OKRs는 Business 방향에 맞게 설정하며, Business needs에 따라 기존에 설정 해 둔 OKRs보다 선행 처리 될 수도 있습니다.
@@ -25,6 +22,8 @@ OKRs는 Business 방향에 맞게 설정하며, Business needs에 따라 기존�
 1. **Always Be Kind!!**
 1. 기칠문삼: 기술이 7이면 문서는 3이다. 기술의 공유 및 확산을 위해서는 서로간 공유 할 수 있는 자료 등이 필요합니다. 문서가 아니더라도 영상이나 이미지 등으로 공동체의 성장을 위한 기술 공유 자료가 반드시 필요 합니다.
 1. 근태는 관리하지 않으나 팀원의 사기는 관리합니다.
+### Culture fit
+* [DevOps Team culture fit 문서 참조](culture_fit.md)
 
 ## Hangbot
 ### Hangbot 역할 정의
