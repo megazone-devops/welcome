@@ -1,5 +1,8 @@
 # Megazone Cloud DevOps팀 공개 Git 공간
 ## Culture
+### Culture fit
+* [DevOps Team culture fit 문서 참조](culture_fit.md)
+
 ### Ground rule(업무규칙)
 1. 분기별 OKRs을 설정하여 자발적 Goal을 만들어갑니다.
 OKRs는 Business 방향에 맞게 설정하며, Business needs에 따라 기존에 설정 해 둔 OKRs보다 선행 처리 될 수도 있습니다.
