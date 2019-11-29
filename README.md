@@ -3,7 +3,7 @@
 ### Ground rule(업무규칙)
 1. 분기별 OKRs을 설정하여 자발적 Goal을 만들어갑니다.
 OKRs는 Business 방향에 맞게 설정하며, Business needs에 따라 기존에 설정 해 둔 OKRs보다 선행 처리 될 수도 있습니다.
-1. 매일 오전 9시 30분 부터 15분 동안 Daily-stand-up을 진행합니다.
+1. 매일 오전 9시 45분 부터 15분 동안 Daily-stand-up을 진행합니다.
 1. 20시~07시 시간대 단톡방 사용을 금지 합니다.(긴급 상황 제외)
 1. 수평문화 조직으로써 대화는 수평적으로 하지만, 업무 요청은 수직적으로 합니다.
 1. 모든 업무 요청은 Project management tool(Jira/trello 등) 또는 Email 등으로 기록화된 정보를 통해  전달합니다.
