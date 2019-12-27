@@ -24,6 +24,8 @@ OKRs는 Business 방향에 맞게 설정하며, Business needs에 따라 기존�
 1. 근태는 관리하지 않으나 팀원의 사기는 관리합니다.
 1. 점심 시간에 사무실내에서 큰소리로 떠들지 않습니다.
 1. '휴가사유'부분은 별도 기입하지 않습니다.
+1. 나이, 학력, 연봉 등 프라이버시와 관련된 질문은 하지 않습니다.
+
 
 ### Culture fit
 * [DevOps Team culture fit 문서 참조](culture_fit.md)
